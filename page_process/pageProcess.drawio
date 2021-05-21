@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-21T06:59:34.994Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="gxU1nT32pvR53ykqYqR_" version="14.6.13" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-05-21T09:32:21.115Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="rbcL9SVe3juTlXB3xIWL" version="14.6.13" type="github" pages="4">
   <diagram id="EqkWNWM9jn0DgK2Ok5Wh" name="Landing">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" background="#ffffff" math="0" shadow="0">
       <root>
@@ -634,7 +634,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="c5dnqndgK0QT_NNHm5XH" name="Booking Detail">
-    <mxGraphModel dx="1639" dy="2502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1497" dy="2546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="4fwIL_hpuyvUoIBHdqvV-0" />
         <mxCell id="4fwIL_hpuyvUoIBHdqvV-1" parent="4fwIL_hpuyvUoIBHdqvV-0" />
@@ -696,6 +696,9 @@
             <mxPoint x="750" y="-1040" as="sourcePoint" />
             <mxPoint x="750" y="-1595" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="X7_kivnIioiTGmHagJPr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="4fwIL_hpuyvUoIBHdqvV-1" source="X7_kivnIioiTGmHagJPr-1" target="UJI17FlE11eXW5i6tQiK-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X7_kivnIioiTGmHagJPr-1" value="点击 Checkout 按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4fwIL_hpuyvUoIBHdqvV-1">
           <mxGeometry x="915" y="-1240" width="155" height="40" as="geometry" />
