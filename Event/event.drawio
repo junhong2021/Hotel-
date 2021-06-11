@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-11T02:24:29.111Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="N3wIg4PumI1AsXqhtkLZ" version="14.7.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-06-11T02:24:32.857Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="2WrIZXQ0QHUM-Nb2aqG6" version="14.7.6" type="github" pages="6">
   <diagram id="OuLmSjMnvsjkm4aDpnHO" name="main process">
     <mxGraphModel dx="1639" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -402,7 +402,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NKc8qmkjxwbFt547xgyM" name="store">
-    <mxGraphModel dx="5478" dy="954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="5478" dy="954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="s1rlasxdrBAmmo_A1M3N-0" />
         <mxCell id="s1rlasxdrBAmmo_A1M3N-1" parent="s1rlasxdrBAmmo_A1M3N-0" />
