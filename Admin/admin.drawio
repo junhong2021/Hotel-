@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T09:41:35.409Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="_8VGDMh4rM68xcjiWDHj" version="14.8.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-06-23T09:42:05.319Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="kAWroiVCMRmJOr9vsx0x" version="14.8.0" type="github" pages="7">
   <diagram id="CP2o8_vx9Uu4diZ9vyuc" name="order">
     <mxGraphModel dx="2326" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1200,6 +1200,14 @@
         <mxCell id="Sm-7BLPH-7gYiUzNTcmP-7" value="fetchFraudRulesLogReq" style="shape=umlFrame;whiteSpace=wrap;html=1;width=150;height=25;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="HawUoK68PmpW9gUrA9_Q-1">
           <mxGeometry x="365" y="830" width="380" height="210" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="YNrtjwnb6BYWR6wabvIq" name="price rules">
+    <mxGraphModel dx="1298" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="LZwegwXIImwfGyzeuZZ5-0" />
+        <mxCell id="LZwegwXIImwfGyzeuZZ5-1" parent="LZwegwXIImwfGyzeuZZ5-0" />
       </root>
     </mxGraphModel>
   </diagram>
