@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T04:13:45.672Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="aWWIMktu_6PGg-MZNbXB" version="14.7.10" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-06-23T04:13:50.541Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="0Uq0j0eNel-rzzEX3y3F" version="14.7.10" type="github" pages="6">
   <diagram id="CP2o8_vx9Uu4diZ9vyuc" name="order">
     <mxGraphModel dx="2326" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" background="#ffffff" math="0" shadow="0">
       <root>
@@ -983,7 +983,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aIioZCZ-8kUN0vyCVIdh" name="Fraud limit">
-    <mxGraphModel dx="1842" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1842" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="FqzQ-g2Sir0sHUfjzbmN-0" />
         <mxCell id="FqzQ-g2Sir0sHUfjzbmN-1" parent="FqzQ-g2Sir0sHUfjzbmN-0" />
