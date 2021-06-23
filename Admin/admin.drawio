@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T07:29:13.543Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="pW-pro8GUygIdvMeFfdM" version="14.8.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-06-23T07:30:40.374Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="Lar-b0XcyZqR4xGUxJZ5" version="14.8.0" type="github" pages="7">
   <diagram id="CP2o8_vx9Uu4diZ9vyuc" name="order">
     <mxGraphModel dx="2326" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1256,9 +1256,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O3EVahbQYjXNz4uMsB7u-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HawUoK68PmpW9gUrA9_Q-1" source="Sm-7BLPH-7gYiUzNTcmP-10" target="O3EVahbQYjXNz4uMsB7u-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Sm-7BLPH-7gYiUzNTcmP-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="HawUoK68PmpW9gUrA9_Q-1">
           <mxGeometry x="385" y="640" width="10" height="80" as="geometry" />
         </mxCell>
@@ -1278,11 +1275,17 @@
         <mxCell id="Sm-7BLPH-7gYiUzNTcmP-14" value="return&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="HawUoK68PmpW9gUrA9_Q-1">
           <mxGeometry x="530" y="697" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Sm-7BLPH-7gYiUzNTcmP-7" value="fetchFraudRulesLogReq" style="shape=umlFrame;whiteSpace=wrap;html=1;width=150;height=25;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="HawUoK68PmpW9gUrA9_Q-1">
-          <mxGeometry x="365" y="830" width="380" height="210" as="geometry" />
-        </mxCell>
         <mxCell id="O3EVahbQYjXNz4uMsB7u-20" value="Log 表单重新渲染" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HawUoK68PmpW9gUrA9_Q-1">
           <mxGeometry x="330" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O3EVahbQYjXNz4uMsB7u-33" value="" style="endArrow=classic;html=1;" edge="1" parent="HawUoK68PmpW9gUrA9_Q-1" source="Sm-7BLPH-7gYiUzNTcmP-10" target="Sm-7BLPH-7gYiUzNTcmP-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="830" as="sourcePoint" />
+            <mxPoint x="450" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sm-7BLPH-7gYiUzNTcmP-7" value="fetchFraudRulesLogReq" style="shape=umlFrame;whiteSpace=wrap;html=1;width=150;height=25;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="HawUoK68PmpW9gUrA9_Q-1">
+          <mxGeometry x="365" y="830" width="380" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
