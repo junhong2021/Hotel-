@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-28T10:29:23.048Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Z0tMCe6nmlNjXBqbd_nf" version="14.8.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-06-28T10:31:33.461Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="TKVakkf7tjtkxj1Rn2z6" version="14.8.1" type="github" pages="8">
   <diagram id="CP2o8_vx9Uu4diZ9vyuc" name="order">
     <mxGraphModel dx="2326" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1323,7 +1323,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SzGmVo3-AOdtxC6-VrGL" name="Page-8">
-    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="FYIZ7w28saBtcMO6wFxO-0" />
         <mxCell id="FYIZ7w28saBtcMO6wFxO-1" parent="FYIZ7w28saBtcMO6wFxO-0" />
@@ -1336,7 +1336,7 @@
         <mxCell id="ivnAwoAzdkWtLtOXX69w-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="FYIZ7w28saBtcMO6wFxO-1" source="FYIZ7w28saBtcMO6wFxO-3" target="FYIZ7w28saBtcMO6wFxO-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FYIZ7w28saBtcMO6wFxO-3" value="确认校验类别&lt;br&gt;设备指纹 &amp;gt; 手机号 &amp;gt; User ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FYIZ7w28saBtcMO6wFxO-1">
+        <mxCell id="FYIZ7w28saBtcMO6wFxO-3" value="依次校验：&lt;br&gt;设备指纹 &amp;gt; 手机号 &amp;gt; User ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FYIZ7w28saBtcMO6wFxO-1">
           <mxGeometry x="430" y="190" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QKKr_O2N6crbZYR8FNQn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="FYIZ7w28saBtcMO6wFxO-1" source="ivnAwoAzdkWtLtOXX69w-4" target="ivnAwoAzdkWtLtOXX69w-34">
@@ -1349,7 +1349,12 @@
           <mxGeometry x="460" y="1250" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QKKr_O2N6crbZYR8FNQn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="FYIZ7w28saBtcMO6wFxO-1" source="ivnAwoAzdkWtLtOXX69w-25" target="ivnAwoAzdkWtLtOXX69w-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="1010" />
+              <mxPoint x="490" y="1010" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ivnAwoAzdkWtLtOXX69w-25" value="Monitor List 记录订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FYIZ7w28saBtcMO6wFxO-1">
           <mxGeometry x="260" y="950" width="120" height="50" as="geometry" />
@@ -1357,11 +1362,11 @@
         <mxCell id="ivnAwoAzdkWtLtOXX69w-35" value="Payment 页面" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="FYIZ7w28saBtcMO6wFxO-1">
           <mxGeometry x="70" y="1310" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ivnAwoAzdkWtLtOXX69w-1" value="1. 相同设备指纹无法使用同种Voucher&lt;br&gt;2. Fraud list 留存记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FYIZ7w28saBtcMO6wFxO-1">
-          <mxGeometry x="680" y="360" width="120" height="50" as="geometry" />
+        <mxCell id="ivnAwoAzdkWtLtOXX69w-1" value="1. 相同设备指纹/手机号/UserID&lt;br&gt;无法使用同种Voucher&lt;br&gt;2. Fraud list 留存记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FYIZ7w28saBtcMO6wFxO-1">
+          <mxGeometry x="670" y="360" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ivnAwoAzdkWtLtOXX69w-16" value="1. 相同设备指纹无法下单&lt;br&gt;2. Fraud list 留存记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FYIZ7w28saBtcMO6wFxO-1">
-          <mxGeometry x="670" y="717" width="140" height="50" as="geometry" />
+        <mxCell id="ivnAwoAzdkWtLtOXX69w-16" value="1. 相同设备指纹/手机号/UserID无法下单&lt;br&gt;2. Fraud list 留存记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FYIZ7w28saBtcMO6wFxO-1">
+          <mxGeometry x="670" y="717" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ivnAwoAzdkWtLtOXX69w-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="FYIZ7w28saBtcMO6wFxO-1" source="FYIZ7w28saBtcMO6wFxO-4" target="ivnAwoAzdkWtLtOXX69w-1">
           <mxGeometry relative="1" as="geometry" />
